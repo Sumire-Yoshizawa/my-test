@@ -1,0 +1,10 @@
+@media only screen and (orientation:landscape){
+  #bg { display : none; }
+  #container{ display:block;}
+  #filters{ display:block;}
+}
+@media only screen and (orientation:portrait){
+  #bg { display: block; }
+  #container{ display:none;}
+  #filters{ display:none ;}
+}
