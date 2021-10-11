@@ -1,5 +1,6 @@
 @media only screen and (orientation:landscape){
-  #bg { display : none; }
+  background-color:#ffff;
+  #objects { display : none; }
   #container{ display:block;}
   #filters{ display:block;}
 }
