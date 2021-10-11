@@ -46,8 +46,7 @@ DRIBBBLE: https://dribbble.com/shots/4330167-404-Page-Lost-In-Space
     90%,100% { -webkit-opacity: 1; opacity: 1; -webkit-transform: scale(1.2); transform: scale(1.2); border-radius: 999999px;}
 }
 body{
-background: rgb(43,47,74);
-background: linear-gradient(0deg, rgba(43,47,74,1) 0%, rgba(0,12,127,1) 58%, rgba(29,20,142,1) 100%);
+background-image: linear-gradient(to top, #281c3c, #272343, #252949, #23304f, #213654, #203754, #203753, #1f3853, #1f334d, #1e2e48, #1d2a42, #1c253c);
 }
 .spin-earth-on-hover{
     
