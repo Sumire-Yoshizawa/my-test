@@ -66,11 +66,6 @@ html{
 }
 
 
-.bg{
-height:100%;
-background-color#0000;
-opacity:32%;
-}
 .central-body{
     width: 100%;
     padding: 17% 5% 10% 5%;
@@ -201,6 +196,16 @@ opacity:32%;
 .glowing_stars .star:nth-child(5){
     top: 90%;
     left: 50%;
+    animation: glow-star 2s infinite ease-in-out alternate 9s;
+}
+.glowing_stars .star:nth-child(6){
+    top: 100%;
+    left: 40%;
+    animation: glow-star 2s infinite ease-in-out alternate 11s;
+}
+.glowing_stars .star:nth-child(7){
+    top: 57%;
+    left: 73%;
     animation: glow-star 2s infinite ease-in-out alternate 9s;
 }
 
