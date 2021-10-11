@@ -1,11 +1,11 @@
 @media only screen and (orientation:landscape){
   background-color:#ffff;
-  #objects { display : none; }
+  #main { display : none; }
   #container{ display:block;}
   #filters{ display:block;}
 }
 @media only screen and (orientation:portrait){
-  #bg { display: block; }
+  #main { display: block; }
   #container{ display:none;}
   #filters{ display:none ;}
 }
