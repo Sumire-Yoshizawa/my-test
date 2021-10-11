@@ -51,7 +51,6 @@ background-image: url("../img/space.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    filter: brightness(0.55);
 
 }
 html{
@@ -67,9 +66,13 @@ html{
 }
 
 
-
+.bg{
+height:100%;
+background-color#0000;
+opacity:32%;
+}
 .central-body{
-/*    width: 100%;*/
+    width: 100%;
     padding: 17% 5% 10% 5%;
     text-align: center;
 }
