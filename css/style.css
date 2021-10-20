@@ -39,3 +39,11 @@ body {
   top: 10%;
    z-index: 100;
 }
+
+.block{
+  display: block;
+}
+
+.hidden{
+  display: none;
+}

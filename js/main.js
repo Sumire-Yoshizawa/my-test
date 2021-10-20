@@ -13,9 +13,9 @@ const texts = [
 	"Aku Mau",
 	"Bilang",
 	"Sesuatu.",
-	"Sebenernya",
-	"Aku Itu",
-	"Suka Kamu."
+	"Selamat",
+	"Ulang Tahun",
+	"Salsabila."
 ];
 
 // Controls the speed of morphing.
